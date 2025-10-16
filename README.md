@@ -3,7 +3,7 @@ Source code of "Hierarchical Multi-View Graph Diffusion Weighted Model for Cance
 
 Accurate cancer subtype identification is crucial for personalized medicine, enabling precise diagnosis based on molecular characteristics. However, the high dimensionality, heterogeneity, and complexity of multi-omics data pose significant challenges for clustering. To address these issues, we propose HMGDW, a hierarchical multi-view graph diffusion weighted model that integrates middle and late integration strategies to robustly identify cancer subtypes from multi-omics data.
 ## Overview
-<img src="https://github.com/DiorsMana/HMGDW/HMGDW.png" height="600" width="1000">
+<img src="https://github.com/DiorsMana/HMGDW/bolt/main/HMGDW.png" height="600" width="1000">
 
 ## Installation
 ### Requirements
